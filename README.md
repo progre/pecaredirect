@@ -1,0 +1,2 @@
+# pecaredirect
+Redirect to PeerCast
