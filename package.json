@@ -1,0 +1,42 @@
+{
+  "name": "pecaredirect",
+  "version": "0.0.0",
+  "description": "Redirect to PeerCast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/progre/pecaredirect.git"
+  },
+  "keywords": [
+    "PeerCast"
+  ],
+  "author": "progre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/progre/pecaredirect/issues"
+  },
+  "homepage": "https://github.com/progre/pecaredirect#readme",
+  "devDependencies": {
+    "browserify": "*",
+    "del": "*",
+    "gulp": "*",
+    "gulp-concat": "*",
+    "gulp-espower": "*",
+    "gulp-jade": "*",
+    "gulp-mocha": "*",
+    "gulp-plumber": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-stylus": "*",
+    "gulp-tslint": "*",
+    "gulp-tslint-stylish": "*",
+    "gulp-typescript": "*",
+    "run-sequence": "*",
+    "stream-to-promise": "*",
+    "tsify": "*",
+    "typescript": "*",
+    "vinyl-source-stream": "*"
+  }
+}
