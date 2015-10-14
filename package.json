@@ -25,6 +25,7 @@
     "gulp": "*",
     "gulp-concat": "*",
     "gulp-espower": "*",
+    "gulp-if": "^2.0.0",
     "gulp-jade": "*",
     "gulp-mocha": "*",
     "gulp-plumber": "*",
@@ -33,10 +34,11 @@
     "gulp-tslint": "*",
     "gulp-tslint-stylish": "*",
     "gulp-typescript": "*",
+    "gulp-uglify": "^1.4.2",
     "run-sequence": "*",
-    "stream-to-promise": "*",
     "tsify": "*",
     "typescript": "*",
+    "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "*"
   }
 }
